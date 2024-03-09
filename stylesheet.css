@@ -1,0 +1,53 @@
+*{
+	font-family: Arial, Verdana, sans-serif;
+	color: #665544;
+	text-align: center;
+}
+
+body {
+	background-color: #EDEDED;
+	width:960px;
+	margin: 0 auto;
+}
+nav { 
+	background-color: #F0DBD0;
+	padding: 10px;
+	margin: 10px;
+}
+
+li{
+	display: inline;
+	padding: 5px;
+}
+
+section {
+	overflow:auto;
+	height:100%;
+}
+
+main {
+	background-color: #F0DBD0;
+	padding: 10px;
+	margin: 10px;
+}
+
+article {
+	background-color: #F0DBD0;
+	padding: 10px;
+	margin: 10px;
+	width: 280px;
+	float:left
+}
+.mart {
+	width:440px;
+}
+
+footer{
+	background-color: #F0DBD0;
+	padding: 10px;
+	margin: 10px;
+}
+
+header h1 {
+    font-family: 'Georgia', serif;
+}
